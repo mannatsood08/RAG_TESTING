@@ -1,0 +1,5 @@
+[
+  "Get customer contact fields",
+  { "query": "List order amount fields" },
+  "Show product inventory fields"
+]

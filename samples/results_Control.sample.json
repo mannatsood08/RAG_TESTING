@@ -1,0 +1,5 @@
+[
+  ["email","address","phone"],
+  { "retrieved": ["total","amount","currency"] },
+  ["sku","location","warehouse"]
+]

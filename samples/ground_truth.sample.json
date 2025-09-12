@@ -1,0 +1,5 @@
+[
+  ["email","phone"],
+  { "fields": ["total","currency"] },
+  ["sku","stock","location"]
+]

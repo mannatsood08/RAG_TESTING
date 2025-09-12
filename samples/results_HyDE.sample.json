@@ -1,0 +1,5 @@
+[
+  ["phone","email","name"],
+  { "fields": ["total","subtotal"] },
+  { "top": ["sku","stock"] }
+]

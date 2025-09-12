@@ -1,0 +1,27 @@
+# Node
+node_modules/
+.npmrc
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Output
+results_report.csv
+coverage/
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
