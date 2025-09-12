@@ -1,3 +1,5 @@
+## RAG_TESTING
+
 ## RAG Testing Tool (Node.js)
 
 Automate evaluation of multiple MongoDB schema field retrieval systems (RAG variants). Given test queries, ground truth field names, and each system's top-10 retrieved fields, this tool computes precision, recall, and F1 per query and averages per system, exporting a standardized CSV.
